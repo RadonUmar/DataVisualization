@@ -82,7 +82,7 @@ Deploy 🚀
 
 
 📹 Demo
-(Add link to a short video demo if you have one)
+(https://youtu.be/E4XFDfcdBL0)
 
 🤝 Contributing
 PRs and issues welcome! Feel free to fork and build on this project.
